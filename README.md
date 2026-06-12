@@ -1,5 +1,3 @@
-# risuai-webnovel-community
-A serialized web novel community simulation for RisuAI — reputation, narrative hooks, and regular reader memory.
 # 📖 Webnovel Community — RisuAI Plugin
 
 A serialized web novel community simulation plugin for [RisuAI](https://github.com/kwaroran/Risuai). 
